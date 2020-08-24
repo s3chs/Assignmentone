@@ -20,8 +20,11 @@ body {
         align-content: stretch;
     }
 
-    .herosection {
-    
+    .heroSection {
+        width: 100vw;
+        height: 500px;
     }
+
+    .heroSection
 
       
