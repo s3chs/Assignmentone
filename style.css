@@ -2,6 +2,7 @@
 
 body {
     font-family: 'Alata';
+    margin: 0%;
   }
 
 ul {
@@ -88,4 +89,15 @@ ul {
 
     #tabLuca {
         display: none;
+    }
+
+    section {
+        margin-bottom: 70px;
+    }
+
+    footer {
+        height: 200px;
+        text-align: center;
+       padding-top: 90px;
+        background-color: antiquewhite;
     }
