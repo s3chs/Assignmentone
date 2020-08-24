@@ -10,4 +10,7 @@ const changeTab = tab => {
 	}
 }
 
-document.getElementById('navBar').addEventListener('click', e => changeTab(e))
+document.getElementById('navBar').addEventListener(
+	'click',
+	e => changeTab(e)
+	)
