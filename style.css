@@ -3,3 +3,25 @@
 body {
     font-family: 'Alata';
   }
+
+  nav  li {
+      font-size: 0.9em;
+      list-style: none;
+      display: inline-block;
+      cursor: pointer;
+  }
+
+  nav {
+        display: flex;
+        flex-direction: row;
+        flex-wrap: nowrap;
+        justify-content: space-around;
+        align-items: stretch;
+        align-content: stretch;
+    }
+
+    .herosection {
+    
+    }
+
+      
