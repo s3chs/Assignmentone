@@ -23,8 +23,13 @@ body {
     .heroSection {
         width: 100vw;
         height: 500px;
+        background-repeat: no-repeat;
+        background-size: 100% auto;
+        background-position: center;
     }
 
-    .heroSection
+    .heroSecPhil {
+        background-image: url('./kal-visuals-IO0aqa9RbkY-unsplash.jpg');
+    }
 
       
