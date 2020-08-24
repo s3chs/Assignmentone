@@ -1,8 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Alata&display=swap');
 
-html * {
-    box-sizing: border-box;
-}
 body {
     font-family: 'Alata';
   }
@@ -35,11 +32,11 @@ ul {
         background-position: center;
     }
 
-    .heroSecPhil {
+    #heroSecPhil {
         background-image: url('./kal-visuals-IO0aqa9RbkY-unsplash.jpg');
     }
 
-    .heroSecLuca {
+    #heroSecLuca {
         background-image: url('./harley-davidson.jpg');
     }
 
